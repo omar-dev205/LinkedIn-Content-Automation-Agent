@@ -33,6 +33,6 @@ I am a Python Developer and AI Automation Specialist passionate about building i
 
 LinkedIn: https://www.linkedin.com/in/omar-faruk-b819b1280/
 
-GitHub: github.com/omar-dev205
+GitHub : https://github.com/omar-dev205
 
 Feel free to reach out for collaborations or opportunities!
